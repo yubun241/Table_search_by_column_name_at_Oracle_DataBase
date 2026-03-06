@@ -1,5 +1,5 @@
 ## Table_search_by_column_name
-OracleのDataBaseでカラム名とスキーマ名を入力するとテーブル名が出力されるコードです
+OracleのDBでカラム名とスキーマ名を入力するとテーブル名が出力されるコードです
 
 ## 概要
 
